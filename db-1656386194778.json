@@ -1,0 +1,22 @@
+{
+  "Peliculas": [
+    {
+      "id": 1,
+      "nombre": "anabelle",
+      "genero": "terror",
+      "imagen": "https://th.bing.com/th/id/OIP.l3nMY_9c2cHOr7wTz3CJJgHaKe?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 2,
+      "nombre": "Superman",
+      "genero": "accion",
+      "imagen": "https://3.bp.blogspot.com/-vM3W7Lh9JUk/UYuC3GRnVkI/AAAAAAAARG8/uf_HbTe1u-8/s1600/Mundo+Superman+2.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "rocky 4",
+      "genero": "accion",
+      "imagen": "https://th.bing.com/th/id/R.4e8b816ab4eeb8e9dbe919e9c4bf6796?rik=dWwxifBvEdm%2bOA&pid=ImgRaw&r=0"
+    }
+  ]
+}

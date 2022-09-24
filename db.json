@@ -1,0 +1,16 @@
+{
+  "Peliculas": [
+    {
+      "nombre": "aniquilacion 4",
+      "genero": "accion",
+      "imagen": "https://th.bing.com/th/id/R.b22934650fccec40976efefb6780fa08?rik=oYKizn28HcoRtQ&riu=http%3a%2f%2fwww.cineol.net%2fgaleria%2fcarteles%2fbigtmp_34576.jpg&ehk=uH8GN%2bZHJ9xDCvB%2fPo3ofc7ruhtm9vinQAaa1%2fnNiDE%3d&risl=&pid=ImgRaw&r=0",
+      "id": 3
+    },
+    {
+      "nombre": "el resplandor",
+      "genero": "terror",
+      "imagen": "https://filmotecacantabria.es/es/wp-content/uploads/2022/04/the-shining.jpg",
+      "id": 4
+    }
+  ]
+}
